@@ -1,4 +1,4 @@
-//Swap value using 3rd variable
+//Swap value without using 3rd variable
 
 fun main() {
 
